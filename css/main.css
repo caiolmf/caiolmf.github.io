@@ -74,6 +74,10 @@ body {
     font-weight: 300;
 }
 
+#profile-location i {
+    width: 24px;
+}
+
 #profile-location span {
     vertical-align: middle;
 }
